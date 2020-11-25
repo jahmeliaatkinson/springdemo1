@@ -1,0 +1,12 @@
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/config/MyWebAppInitializer.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/controller/RegistrationController.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/config/RootConfig.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/interceptor/GuestInterceptor.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/controller/AuthController.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/controller/HomeController.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/config/WebConfig.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/repository/LoginRepository.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/repository/RegistrationRepository.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/model/Login.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/model/Registration.java
+/home/ubuntu/git/web/mvcdemo/src/main/java/com/tcs/mvcdemo/interceptor/AdminInterceptor.java
